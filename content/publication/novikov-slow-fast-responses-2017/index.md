@@ -4,7 +4,9 @@
 title: 'Slow and Fast Responses: Two Mechanisms of Trial Outcome Processing Revealed
   by EEG Oscillations'
 subtitle: ''
-summary: ''
+summary: 'This is an EEG study on cognitive control.
+The ERSPs were compared between slower and faster correct and mistaken responses in order to look for the relationship between RTs, attention, and uncertainty.
+My role was mainly to help the main investigator with implementing the analyses in MATLAB.'
 authors:
 - Nikita A. Novikov
 - Yulia M. Nurislamova

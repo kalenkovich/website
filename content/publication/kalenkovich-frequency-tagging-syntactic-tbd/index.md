@@ -4,7 +4,10 @@
 title: Frequency Tagging of Syntactic Structure or Lexical Properties; A Registered
   MEG Study
 subtitle: ''
-summary: ''
+summary: 'In this MEG study, we disassociate the effects of the syntactic and lexical properties of the stimuli on the frequency tagging of hierarchical linguistic structures (as in [Ding et al., 2016](https://www.nature.com/articles/nn.4186)).
+Received IPA at [Cortex](https://www.journals.elsevier.com/cortex).
+Data already collected and analyzed.
+Now writing up Phase 2 of this RR.'
 authors:
 - Evgenii Kalenkovich
 - Anna Shestakova

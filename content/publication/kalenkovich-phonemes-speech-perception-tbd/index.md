@@ -1,9 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Phonemes in Speech Perception: Selective Adaptation to Missing Phonemes'
+title: 'Phoneme-Sized Segments in Speech Perception: Selective Adaptation to Missing Phonemes'
 subtitle: ''
-summary: ''
+summary: 'This study will test the role of the phoneme-sized segments (phonemes/allophones) in speech perception.
+Previous studies with similar aim never properly disassociated the influence of such segments from the auditory properties of the stimuli and the syllable identity simultaneously.
+This study will do exactly that.
+Phase 1 of this RR received revise and resubmit and then reject at [QJEP](https://journals.sagepub.com/home/qjp).
+We are now preparing another revision for submission to another journal.'
 authors:
 - Evgenii Kalenkovich
 - Ekaterina Stupina

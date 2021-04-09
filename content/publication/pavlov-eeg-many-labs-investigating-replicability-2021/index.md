@@ -3,7 +3,7 @@
 
 title: '#EEGManyLabs: Investigating the Replicability of Influential EEG Experiments'
 subtitle: ''
-summary: ''
+summary: 'This is the position paper of the [#EEGManyLabs](https://osf.io/yb3pq/) project that will test the replicability of the most influential EEG studies.'
 authors:
 - Yuri G. Pavlov
 - Nika Adamian
